@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luiz-lombardi-vtex
 - 👀 I’m interested in VTEX IO, FastStore, JamStack, etc.
-- 🌱 I’m currently learning ReactJS, TypeScript, NodeJS, Gatsby, Next, Evergreen.
+- 🌱 I’m currently learning ReactJS, TypeScript, NodeJS, Gatsby, Next, Evergreen UI.
 - 💞️ I’m looking to collaborate on VTEX IO.
 - 📫 How to reach me : luiz.lombardi@vtex.com.br
 
